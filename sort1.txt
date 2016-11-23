@@ -1,0 +1,24 @@
+/home/aneesh/sortingqn6/sort:
+total 72
+-rw-rw-r-- 1 aneesh aneesh 44171 Nov 17 13:53 unix commands.odt
+drwxrwxr-x 3 aneesh aneesh  4096 Nov 23 11:27 jst
+drwxrwxr-x 2 aneesh aneesh  4096 Nov 22 16:56 test1234
+-rw-rw-r-- 1 aneesh aneesh   685 Nov 23 11:16 sort1
+-rw-rw-r-- 1 aneesh aneesh    55 Nov 22 15:29 newfolder~
+-rw-rw-r-- 1 aneesh aneesh    47 Nov 23 11:16 newfolder
+-rw-rw-r-- 1 aneesh aneesh    30 Nov 22 15:29 newfile.txt
+-rwxrwxrwx 1 aneesh aneesh    27 Nov 22 14:08 test
+-rw-rw-r-- 1 aneesh aneesh     0 Nov 23 12:42 123.abc
+-rw-rw-r-- 1 aneesh aneesh     0 Nov 23 12:07 abc
+
+/home/aneesh/sortingqn6/sort/jst:
+total 4
+drwxrwxr-x 2 aneesh aneesh 4096 Nov 23 11:45 jst1
+-rw-rw-r-- 1 aneesh aneesh    0 Nov 22 19:02 adf.abc
+-rw-rw-r-- 1 aneesh aneesh    0 Nov 23 11:26 asd.abc
+
+/home/aneesh/sortingqn6/sort/jst/jst1:
+total 0
+
+/home/aneesh/sortingqn6/sort/test1234:
+total 0
